@@ -1,0 +1,8 @@
+/* container-fluid will fill the width of it's element - in the same way fluids fill their container
+
+
+.container-fluid {
+    background-color: blue;
+    height: 500px;
+}
+*/
